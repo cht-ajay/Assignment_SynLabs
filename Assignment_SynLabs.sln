@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_SynLabs", "Assignment_SynLabs\Assignment_SynLabs.csproj", "{513D3EBD-1D0A-4CFD-B86A-791BFDC88070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513D3EBD-1D0A-4CFD-B86A-791BFDC88070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513D3EBD-1D0A-4CFD-B86A-791BFDC88070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513D3EBD-1D0A-4CFD-B86A-791BFDC88070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513D3EBD-1D0A-4CFD-B86A-791BFDC88070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD9C696-05E5-4330-A09D-EF936F634C13}
+	EndGlobalSection
+EndGlobal
